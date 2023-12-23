@@ -10,5 +10,8 @@ The Forest Version
 
 # Run
 This project uses JavaScript with modules, so you have to run this code in a local server!   
-(The original code is from FreeCodeCamp.org)
+# How to play
+Use arrows on the keyboard to control movements, press "Enter" to roll
+# Credit
+The original code is from FreeCodeCamp.org
 
